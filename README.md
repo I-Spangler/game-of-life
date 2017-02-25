@@ -1,3 +1,4 @@
 # game-of-life
-very naive game of life, my first ever project for UFMG
-its horrible
+A project for my CS class
+
+ascii-gol is a fun script to make any ascii text become a game of life so you can watch them move
